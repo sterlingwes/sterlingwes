@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 💜 I'm currently working on [MasterHealth](https://masterhealth.care)
+- ⛵️ For fun I'm building [fediship](https://github.com/sterlingwes/fediship), a React Native Fediverse / Mastodon client
+- 🏦 I previously led mobile platforms at Wealthsimple
+- 🤝 I'm trying to give back more to the open source community
+
 <!--
 **sterlingwes/sterlingwes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
