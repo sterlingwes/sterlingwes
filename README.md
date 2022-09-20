@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💜 I'm currently working on [MasterHealth](https://masterhealth.care)
-- ⛵️ For fun I'm building [fediship](https://github.com/sterlingwes/fediship), a React Native Fediverse / Mastodon client
+- ⛵️ For fun I'm building [fediship](https://github.com/sterlingwes/fediship), a React Native Fediverse / Mastodon client and [firedanger.ca](https://firedanger.ca) because the world is burning...
 - 🏦 I previously led mobile platforms at Wealthsimple
 - 🤝 I'm trying to give back more to the open source community
 
