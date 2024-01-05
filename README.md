@@ -8,6 +8,7 @@ I have experience across the stack (frontend, backend, infra, design), but more 
 * mobile (react-native, some native with Swift/Obj-C/Java on iOS & Android)
 * graphql on node.js
 * rolling & blue/green deployment infra
+* caching strategies
 * scheduled jobs, lambdas, and container management
 * figma collaboration
 * kanban for project management with a lightweight + granular philosophy
