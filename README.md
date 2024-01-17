@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 ### Hello 👋
 
 I'm Wes and I have experience leading teams in large tech orgs and early stage as a day 1 software dev / founder.
