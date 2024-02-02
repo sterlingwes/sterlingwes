@@ -12,6 +12,7 @@ I have experience across the stack (frontend, backend, infra, design), but more 
 * rolling & blue/green deployment infra
 * caching strategies
 * scheduled jobs, lambdas, and container management
+* svg animations on web (SMIL)
 * figma collaboration
 * kanban for project management with a lightweight + granular philosophy
 
