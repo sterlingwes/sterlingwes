@@ -18,5 +18,3 @@ I have experience across the stack (frontend, backend, infra, design), but more 
 
 Norms doc I wrote for a team I recently led:
 [Engineering Culture Doc](https://sterlingwes.notion.site/sterlingwes/Engineering-Culture-Doc-cc8543756c244641bf119996ad02ed25)
-
-I'm on the Fediverse, mostly: [dingus.business/@wes](https://dingus.business/@wes)
